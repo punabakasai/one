@@ -1010,10 +1010,10 @@
     <div class="container header-inner">
       <div style="display:flex;align-items:center;gap:10px;">
         <button class="mobile-toggle" id="mobileToggle" aria-label="menu">
-          <i class="fas fa-bars"></i>
+          em class="fas fa-bars"></i>
         </button>
         <a class="brand" href="#">
-          <i class="fas fa-store-alt"></i>
+          em class="fas fa-store-alt"></i>
           <span>Nexus<span class="accent">Shop</span></span>
         </a>
       </div>
